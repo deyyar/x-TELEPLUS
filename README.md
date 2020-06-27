@@ -1,4 +1,5 @@
-# uniborg
+# @TELE_THON
+## DEVELOPER : @FFjRR - @aaaDa
 
 Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
