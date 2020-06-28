@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://gitlab.com/SpEcHiDe/UniBorg",
-  "website": "https://telegram.dog/UniBorg",
+  "repository": "https://github.com/klanrali/x-TELEPLUS",
+  "website": "https://telegram.dog/x-TELEPLUS",
   "success_url": "https://t.me/UniBorg/5",
   "env": {
     "ENV": {
