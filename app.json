@@ -1,6 +1,6 @@
 {
-  "name": "x-TELEPLUS : @TELE_THON",
-  "description": "Modular UserBot powered by TELE_THON!",
+  "name": "x-TELEPLUS : @xTeleThon",
+  "description": "Modular UserBot powered by @xtelethon!",
   "logo": "https://telegra.ph/file/8a8a2f0ac16736c037f5b.jpg",
   "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/klanrali/x-TELEPLUS",
-  "website": "https://telegram.dog/x-TELEPLUS",
+  "repository": "https://github.com/spechide/UniBorg",
+  "website": "https://telegram.dog/UniBorg",
   "success_url": "https://t.me/UniBorg/5",
   "env": {
     "ENV": {
